@@ -1,0 +1,740 @@
+2022-11-21 02:55:27 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: WARNING
+2022-11-21 02:55:27 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: Warn no App 
+2022-11-21 02:55:27 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: Error no App 
+2022-11-21 03:30:02 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 03:30:02 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 03:47:26 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 03:47:26 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 03:52:17 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 03:52:17 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 03:56:05 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 03:56:05 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 03:59:19 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 03:59:19 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 04:00:57 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 04:00:57 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:27:57 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:27:57 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:27:57 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:27:57 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:31:45 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:31:45 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:31:45 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:31:45 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:32:05 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:32:05 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:32:05 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:32:05 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:32:47 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:32:47 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:32:47 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:32:47 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:35:31 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:35:31 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:35:31 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:35:31 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:37:18 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:37:18 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:37:18 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:37:18 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:39:01 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:39:01 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:39:01 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:39:01 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:47:29 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:47:29 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:47:29 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:47:29 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:52:34 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:52:34 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:52:34 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:52:34 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 11:58:21 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 11:58:21 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 12:18:17 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 12:18:17 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 12:29:31 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 12:29:31 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 12:52:06 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 12:52:06 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 12:55:48 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 12:55:48 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 13:09:31 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 13:09:31 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 13:14:22 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 13:14:22 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 13:16:50 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 13:16:50 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 13:19:02 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 13:19:02 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 13:32:21 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 13:32:21 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 13:34:56 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 13:34:56 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 13:36:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 13:36:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 13:45:04 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 13:45:04 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 13:47:47 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 13:47:47 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 13:49:08 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 13:49:08 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 13:51:17 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 13:51:17 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 14:00:00 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 14:00:00 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 14:02:16 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 14:02:16 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 14:05:23 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 14:05:23 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 14:08:33 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 14:08:33 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 14:09:44 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 14:09:44 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 14:12:16 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 14:12:16 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 15:01:47 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 15:01:47 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 15:04:22 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 15:04:22 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 15:08:44 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 15:08:44 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 15:13:01 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 15:13:01 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 15:14:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 15:14:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 15:23:39 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 15:23:39 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 15:32:45 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 15:32:45 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 15:37:39 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 15:37:39 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 15:42:07 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 15:42:07 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 15:47:48 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 15:47:48 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 16:06:55 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 16:06:55 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 16:10:01 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 16:10:01 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 16:13:45 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 16:13:45 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 16:44:00 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 16:44:00 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 17:03:45 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 17:03:45 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 17:03:56 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.AlunoController.addAluno()
+INFO: Aluno Salvo 755
+2022-11-21 20:19:03 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 20:19:03 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 20:21:14 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.AlunoController.addAluno()
+INFO: Aluno Salvo 222
+2022-11-21 20:23:54 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 20:23:54 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 20:49:47 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 20:49:47 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 20:50:00 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.NotaController.addNota()
+INFO: Nota Salvo Historia
+2022-11-21 20:50:26 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.readAluno()
+INFO: Listado 
+2022-11-21 20:52:09 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-21 20:52:09 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-21 20:53:03 [http-nio-8080-exec-6] com.ricardoclaro.colegial.controller.NotaController.addNota()
+INFO: Nota Salvo Geografia
+2022-11-21 20:53:23 [http-nio-8080-exec-8] com.ricardoclaro.colegial.controller.AlunoController.readAluno()
+INFO: Listado 
+2022-11-23 16:16:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-23 16:16:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-23 16:52:27 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-23 16:52:27 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-23 16:55:34 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-23 16:55:34 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-23 16:58:34 [http-nio-8080-exec-1] com.ricardoclaro.colegial.controller.AlunoController.addAluno()
+INFO: Aluno Salvo 555
+2022-11-23 16:59:05 [http-nio-8080-exec-3] com.ricardoclaro.colegial.controller.MateriaController.addMat()
+INFO: Materia salva Historia
+2022-11-23 16:59:46 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.inserirnotas()
+INFO: Nota Salva nome:Historia
+2022-11-23 17:00:00 [http-nio-8080-exec-5] com.ricardoclaro.colegial.controller.AlunoController.readAluno()
+INFO: Listado 
+2022-11-23 17:02:10 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-23 17:02:10 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-23 17:06:37 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-23 17:06:37 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-23 17:08:51 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.AlunoController.inserirnotas()
+INFO: Nota Salva nome:Historia
+2022-11-23 17:09:06 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.readAluno()
+INFO: Listado 
+2022-11-23 17:15:23 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-23 17:15:23 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-23 17:15:32 [http-nio-8080-exec-1] com.ricardoclaro.colegial.controller.AlunoController.readAluno()
+INFO: Listado 
+2022-11-23 17:17:03 [http-nio-8080-exec-5] com.ricardoclaro.colegial.controller.MateriaController.addMat()
+INFO: Materia salva Geografia
+2022-11-23 17:17:32 [http-nio-8080-exec-6] com.ricardoclaro.colegial.controller.AlunoController.inserirnotas()
+INFO: Nota Salva nome:Geografia
+2022-11-23 17:17:44 [http-nio-8080-exec-7] com.ricardoclaro.colegial.controller.AlunoController.readAluno()
+INFO: Listado 
+2022-11-23 17:19:09 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.TurmaController.addTurma()
+INFO: Turma Salva 3A
+2022-11-23 17:19:28 [http-nio-8080-exec-1] com.ricardoclaro.colegial.controller.AlunoController.matricula()
+INFO: Matricula feita ra 555 turma 3A
+2022-11-23 17:19:39 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.readAluno()
+INFO: Listado 
+2022-11-23 17:20:45 [http-nio-8080-exec-7] com.ricardoclaro.colegial.controller.AlunoController.deleteAluno()
+INFO: Aluno Removido 555
+2022-11-23 17:24:40 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-23 17:24:40 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-23 17:25:35 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.AlunoController.deleteAluno()
+INFO: Aluno Removido 555
+2022-11-23 17:25:53 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.readAluno()
+INFO: Listado 
+2022-11-24 19:12:04 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-11-24 19:12:04 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-11-24 19:16:19 [http-nio-8080-exec-6] com.ricardoclaro.colegial.controller.AlunoController.addAluno()
+INFO: Aluno Salvo 456
+2022-11-24 19:16:48 [http-nio-8080-exec-7] com.ricardoclaro.colegial.controller.ProfessorController.addProf()
+INFO: Professor Salvo 4564
+2022-11-24 19:17:27 [http-nio-8080-exec-8] com.ricardoclaro.colegial.controller.TurmaController.addTurma()
+ERROR: TurmaSaveError: 
+2022-11-24 19:18:11 [http-nio-8080-exec-9] com.ricardoclaro.colegial.controller.TurmaController.addTurma()
+INFO: Turma Salva 2B
+2022-11-24 19:18:44 [http-nio-8080-exec-10] com.ricardoclaro.colegial.controller.AlunoController.matricula()
+INFO: Matricula feita ra 456 turma 2B
+2022-11-24 19:19:02 [http-nio-8080-exec-1] com.ricardoclaro.colegial.controller.MateriaController.addMat()
+ERROR: MateriaSaveError: 
+2022-11-24 19:19:25 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.MateriaController.addMat()
+INFO: Materia salva Matematica
+2022-11-24 19:20:22 [http-nio-8080-exec-3] com.ricardoclaro.colegial.controller.ProfessorController.contrato()
+INFO: Contrato realizado 
+2022-11-24 19:20:54 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.ProfessorController.aulas()
+INFO: Aulas salvas 
+2022-11-24 19:21:36 [http-nio-8080-exec-5] com.ricardoclaro.colegial.controller.AlunoController.inserirnotas()
+INFO: Nota Salva nome:Matematica
+2022-11-24 19:21:53 [http-nio-8080-exec-6] com.ricardoclaro.colegial.controller.AlunoController.readAluno()
+INFO: Listado 
+2022-11-24 19:22:41 [http-nio-8080-exec-9] com.ricardoclaro.colegial.controller.ProfessorController.readProfessor()
+INFO: Professor listado 4564
+2022-12-10 19:34:04 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 19:34:04 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 19:34:04 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 19:34:04 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 21:49:48 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 21:49:48 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 21:49:48 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 21:49:48 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 21:52:26 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 21:52:26 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 21:52:26 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 21:52:26 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 21:53:36 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 21:53:36 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 21:53:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 21:53:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 21:59:56 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 21:59:56 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 21:59:56 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 21:59:56 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 22:03:44 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 22:03:44 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 22:03:44 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 22:03:44 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 22:09:52 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 22:09:52 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 22:28:44 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 22:28:44 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 22:35:14 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 22:35:14 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 22:37:32 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 22:37:32 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 22:43:20 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 22:43:20 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 22:47:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 22:47:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 22:52:52 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 22:52:52 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 22:57:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 22:57:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 23:04:59 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 23:04:59 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 23:10:03 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 23:10:03 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 23:13:31 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 23:13:31 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 23:27:50 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 23:27:50 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 23:32:59 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 23:32:59 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 23:47:41 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 23:47:41 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 23:49:05 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 23:49:05 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 23:51:01 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 23:51:01 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 23:54:09 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 23:54:09 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-10 23:58:59 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-10 23:58:59 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 00:23:28 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 00:23:28 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 00:34:01 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 00:34:01 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 00:35:53 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 00:35:53 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 00:45:47 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 00:45:47 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 00:52:00 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 00:52:00 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 01:04:29 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 01:04:29 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 01:13:02 [http-nio-8080-exec-1] com.ricardoclaro.colegial.controller.AlunoController.addAluno()
+INFO: Aluno Salvo 58584587
+2022-12-11 01:24:07 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 01:24:07 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 01:24:08 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 01:24:08 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 01:25:17 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 01:25:17 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 01:25:17 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 01:25:17 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 01:46:17 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 01:46:17 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 01:46:17 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 01:46:17 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:01:03 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:01:03 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:01:04 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:01:04 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:06:37 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:06:37 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:06:37 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:06:37 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:09:54 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:09:54 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:09:54 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:09:54 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:13:55 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:13:55 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:13:55 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:13:55 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:15:54 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:15:54 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:24:54 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:24:54 [restartedMain] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:24:54 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:24:54 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:27:25 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:27:25 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:34:10 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:34:10 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:43:16 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:43:16 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:46:44 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-11 02:46:44 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-11 02:49:39 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.addAluno()
+INFO: Aluno Salvo 58584587334
+2022-12-12 02:44:41 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-12 02:44:41 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-12 03:40:16 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-12 03:40:16 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-12 03:47:00 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-12 03:47:00 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-12 03:48:33 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-12 03:48:33 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-13 16:28:26 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-13 16:28:26 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-13 17:19:27 [http-nio-8080-exec-7] com.ricardoclaro.colegial.controller.AlunoController.addAluno()
+INFO: Aluno Salvo 345637
+2022-12-13 17:45:44 [http-nio-8080-exec-1] com.ricardoclaro.colegial.controller.AlunoController.addAluno()
+INFO: Aluno Salvo 1234
+2022-12-13 17:47:00 [http-nio-8080-exec-5] com.ricardoclaro.colegial.controller.AlunoController.addAluno()
+INFO: Aluno Salvo 12345
+2022-12-15 02:03:14 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-15 02:03:14 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-15 02:08:40 [http-nio-8080-exec-5] com.ricardoclaro.colegial.controller.MateriaController.getAllMaterias()
+INFO: Materias Listadas 
+2022-12-15 02:09:00 [http-nio-8080-exec-8] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:09:24 [http-nio-8080-exec-10] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:09:51 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:10:01 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:10:23 [http-nio-8080-exec-6] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:13:34 [http-nio-8080-exec-8] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:13:44 [http-nio-8080-exec-10] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:15:47 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:17:23 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:21:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+WARN: AppWarn: 
+2022-12-15 02:21:36 [main] com.ricardoclaro.colegial.ColegialApplication.main()
+ERROR: AppError: 
+2022-12-15 02:22:03 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:22:56 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:26:46 [http-nio-8080-exec-6] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:27:19 [http-nio-8080-exec-8] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:29:11 [http-nio-8080-exec-10] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:30:58 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:31:01 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:31:07 [http-nio-8080-exec-6] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:32:05 [http-nio-8080-exec-8] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:32:13 [http-nio-8080-exec-10] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:33:37 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:35:47 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:38:29 [http-nio-8080-exec-7] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:38:38 [http-nio-8080-exec-9] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:38:51 [http-nio-8080-exec-1] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:38:56 [http-nio-8080-exec-3] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:39:08 [http-nio-8080-exec-6] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:39:46 [http-nio-8080-exec-8] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:40:26 [http-nio-8080-exec-10] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:41:17 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:41:28 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:41:38 [http-nio-8080-exec-6] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:42:09 [http-nio-8080-exec-8] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:42:46 [http-nio-8080-exec-10] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:43:13 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:43:25 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:44:25 [http-nio-8080-exec-6] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:44:38 [http-nio-8080-exec-8] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:44:46 [http-nio-8080-exec-10] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:45:10 [http-nio-8080-exec-3] com.ricardoclaro.colegial.controller.ProfessorController.getAllProfs()
+INFO: Profesores Listados 
+2022-12-15 02:45:28 [http-nio-8080-exec-5] com.ricardoclaro.colegial.controller.ProfessorController.getAllProfs()
+INFO: Profesores Listados 
+2022-12-15 02:45:33 [http-nio-8080-exec-7] com.ricardoclaro.colegial.controller.ProfessorController.getAllProfs()
+INFO: Profesores Listados 
+2022-12-15 02:46:50 [http-nio-8080-exec-9] com.ricardoclaro.colegial.controller.ProfessorController.getAllProfs()
+INFO: Profesores Listados 
+2022-12-15 02:48:31 [http-nio-8080-exec-1] com.ricardoclaro.colegial.controller.ProfessorController.getAllProfs()
+INFO: Profesores Listados 
+2022-12-15 02:53:39 [http-nio-8080-exec-7] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:54:36 [http-nio-8080-exec-9] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 02:55:51 [http-nio-8080-exec-1] com.ricardoclaro.colegial.controller.ProfessorController.getAllProfs()
+INFO: Profesores Listados 
+2022-12-15 02:56:08 [http-nio-8080-exec-3] com.ricardoclaro.colegial.controller.ProfessorController.getAllProfs()
+INFO: Profesores Listados 
+2022-12-15 02:56:39 [http-nio-8080-exec-5] com.ricardoclaro.colegial.controller.ProfessorController.getAllProfs()
+INFO: Profesores Listados 
+2022-12-15 02:56:42 [http-nio-8080-exec-6] com.ricardoclaro.colegial.controller.ProfessorController.getAllProfs()
+INFO: Profesores Listados 
+2022-12-15 02:56:45 [http-nio-8080-exec-8] com.ricardoclaro.colegial.controller.ProfessorController.getAllProfs()
+INFO: Profesores Listados 
+2022-12-15 03:01:39 [http-nio-8080-exec-2] com.ricardoclaro.colegial.controller.AlunoController.getAllAlunos()
+INFO: Listado todos 
+2022-12-15 03:02:04 [http-nio-8080-exec-4] com.ricardoclaro.colegial.controller.ProfessorController.getAllProfs()
+INFO: Profesores Listados 
+2022-12-15 03:08:55 [http-nio-8080-exec-6] com.ricardoclaro.colegial.controller.ProfessorController.getAllProfs()
+INFO: Profesores Listados 
