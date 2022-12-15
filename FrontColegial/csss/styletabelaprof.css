@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@500&display=swap');
+
+.container-body {
+    position: relative;
+    margin: auto;
+    background-color: white;
+    border-radius: 0 0 16px 16px;
+    height: 100%;
+    width: 800px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    display: flex;
+    align-content: flex-start;
+}
+
+.container-lateral {
+
+    position: relative;
+    background-color: orange;
+    font-family: 'Unbounded', cursive;
+    color: white;
+    font-size: 40px;
+    height: 100%;
+    width: 25%;
+
+}
+
+.container-lateral-text {
+    position: absolute;
+    bottom: 0;
+    left: 1em;
+}
+
+
+
+.container-acao {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container-acao label {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container-acao form {
+    position: relative;
+    left: 20px;
+
+    margin-top: 50px;
+
+}
+
+.inputform {
+    position: relative;
+    margin-bottom: 20px;
+    width: 80%;
+    left: 8px;
+
+}
+
+.matbutton {
+    font-family: 'Unbounded', cursive;
+    background-color: orange;
+    border-color: orange;
+    border-radius: 16px;
+    height: 32px;
+    width: 64px;
+}
+
+.container-tabela{
+    position: relative;
+    top: 2em;
+    left: 2em;
+    width: 500px;
+    font-size: large;
+    text-align: left;
+
+
+
+}
+.container-tabela table{
+    width: 100%;
+    border-collapse: collapse;
+    
+
+
+}
+.container-tabela td{
+    height: 20px;
+    border-bottom: 1px solid;
+}

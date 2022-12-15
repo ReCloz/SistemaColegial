@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alunos</title>
+    <link rel="stylesheet" href="../csss/stylei.css">
+    <link rel="stylesheet" href="../csss/stylealunos.css">
+</head>
+
+<body>
+    <header>
+        <div class="container-header">
+            <div class="container-links">
+                <h1 id="satored">SATO</h1>
+                <h2 id="alunosred" style="text-decoration: underline;">Alunos</h2>
+                <h2 id="profred">Professores</h2>
+                <h2 id="turmasred">Turmas</h2>
+                <h2 id="matred">Matérias</h2>
+            </div>
+        </div>
+    </header>
+
+    <div class="container-body">
+        <div class="container-lateral">
+            <div class="container-lateral-text">
+                <h1>SA<br>TO</h1>
+            </div>
+        </div>
+        <div class="container-acao">
+ 
+                <h1>Inserir Nota</h1>
+                <div>
+                    <label for="ranota">RA</label><br>
+                    <input type="text" id="ranota" name="ra" class="inputform"><br>
+                </div>
+                <div>
+                    <label for="materianota">Matéria</label><br>
+                    <input type="text" id="materianota" name="materia" class="inputform"><br>
+                </div>
+                <div>
+                    <label for="notanota">Nota</label><br>
+                    <input type="text" id="notanota" name="nota" class="inputform"><br>
+                </div>
+                <button class="alunobutton" id="notabutton">OK</button>
+       
+
+    
+                <h1>Adicionar Aluno</h1>
+                <div>
+                    <label for="raadd">RA</label><br>
+                    <input type="text" id="raadd" name="raadd" class="inputform"><br>
+                </div>
+                <div>
+                    <label for="nomeadd">Nome</label><br>
+                    <input type="text" id="nomeadd" name="nomeadd" class="inputform"><br>
+                </div>
+                <button class="alunobutton" id="addbutton">OK</button>
+     
+
+     
+                <h1>Matrícula</h1>
+                <div>
+                    <label for="remat">RA do Aluno</label><br>
+                    <input type="text" id="ramat" name="ra" class="inputform"><br>
+                </div>
+                <div>
+                    <label for="turmat">Turma que irá ser inserido</label><br>
+                    <input type="text" id="turmat" name="tur" class="inputform"><br>
+                </div>
+                <button class="alunobutton" id="matbutton">OK</button>
+       
+
+       
+                <h1>Atualizar Aluno</h1>
+                <div>
+                    <label for="raatt">RA do Aluno a ser alterado</label><br>
+                    <input type="text" id="raatt" name="ra" class="inputform"><br>
+                </div>
+                <div>
+                    <label for="nomeatt">Novo Nome</label><br>
+                    <input type="text" id="nomeatt" name="nome" class="inputform"><br>
+                </div>
+                <div>
+                    <label for="turatt">Nova Turma</label><br>
+                    <input type="text" id="turatt" name="tur" class="inputform"><br>
+                </div>
+                <button class="alunobutton" id="attbutton">OK</button>
+       
+
+       
+                <h1>
+                    Buscar Aluno
+                </h1>
+                <div>
+                    <label for="rabusca">RA</label><br>
+                    <input type="text" id="rabusca" name="ra" class="inputform"><br>
+                </div>
+                <button class="alunobutton" id="buscabutton">OK</button>
+      
+
+
+
+
+
+     
+                <h1>Remover Aluno</h1>
+                <div>
+                    <label for="radelete">RA</label><br>
+                    <input type="text" id="radelete" name="ra" class="inputform"><br>
+                </div>
+                <button class="alunobutton" id="deletebutton">OK</button>
+
+                <br>
+
+                <button class="tabalunobutton" id="tabalunobutton">Listar Alunos</button>
+      
+
+        </div>
+    </div>
+
+    <script src="../jses/i.js"></script>
+    <script src="../jses/alunos.js"></script>
+</body>
+
+</html>

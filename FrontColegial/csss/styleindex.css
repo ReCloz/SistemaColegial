@@ -1,0 +1,26 @@
+.container-body{
+    position: relative;
+    margin: auto;
+    background-color: white;
+    border-radius: 0 0 16px 16px;
+    height: 400px;
+    width: 1000px;
+    top: -22px;
+}
+
+.container-welcome{
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.container-welcome-bemvindo{
+    color: orange;
+    text-transform:uppercase;
+    font-family: 'Unbounded', cursive;
+    margin-bottom: 50px;
+}
+
+.container-welcome-sub{
+    font-family: 'Open Sans', sans-serif;
+}

@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@500&display=swap');
+
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(29, 29, 29);
+    margin: auto;
+    width: auto;
+    height: 100%;
+}
+
+.container-header{
+    background-color: orange;
+
+}
+
+.container-links h1{
+    font-family: 'Unbounded', cursive;
+}
+
+.container-links{
+    color: white;
+    margin: auto;
+    width: 1000px;
+    display: flex;
+    justify-content:space-around;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    
+}
+.container-links h2{
+    margin-top: 20px;
+}
+

@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@500&display=swap');
+
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(29, 29, 29);
+    margin: auto;
+    width: auto;
+    height: 100%;
+}
+
+.container {
+    margin: auto;
+    width: 1200px;
+    height: 100%;
+
+}
+
+.container-login {
+    position: relative;
+    margin: auto;
+    top: -43em;
+    width: 1000px;
+    height: 680px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    overflow: hidden;
+    box-shadow: 10px 5px 5px black;
+    display: flex;
+    align-content: flex-start;
+}
+
+.container-lateral {
+    position: relative;
+    background-color: orange;
+    font-family: 'Unbounded', cursive;
+    color: white;
+    font-size: 40px;
+    height: 100%;
+    width: 40%;
+}
+
+.container-back {
+    position: relative;
+    margin: auto;
+    width: 800px;
+    height: 100%;
+    background-color: rgb(32, 32, 32);
+}
+
+.container-form {
+    position: relative;
+    top: 10em;
+    left: 5em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+
+
+}
+
+.inputformlogin {
+    border: 2px solid rgb(194, 194, 194);
+    padding: 12px 12px;
+    border-radius: 4px;
+    margin: 10px 8px 8px 8px;
+}
+
+.container-lateral-text {
+    position: relative;
+    top: 3em;
+    left: 4em;
+}
+
+.loginbutton {
+    margin-top: 2em;
+    width: 200px;
+    height: 60px;
+    background-color: orange;
+    border-color: orange;
+    color: white;
+    border-radius: 16px;
+    font-family: 'Unbounded', cursive;
+    font-size: 16px;
+    margin-left: 4px;
+
+}

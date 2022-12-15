@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professores</title>
+    <link rel="stylesheet" href="../csss/stylei.css">
+    <link rel="stylesheet" href="../csss/styleprof.css">
+</head>
+
+<body>
+    <header>
+        <div class="container-header">
+            <div class="container-links">
+                <h1 id="satored">SATO</h1>
+                <h2 id="alunosred">Alunos</h2>
+                <h2 id="profred" style="text-decoration: underline;">Professores</h2>
+                <h2 id="turmasred">Turmas</h2>
+                <h2 id="matred">Matérias</h2>
+            </div>
+        </div>
+    </header>
+
+    <div class="container-body">
+        <div class="container-lateral">
+            <div class="container-lateral-text">
+                <h1>SA<br>TO</h1>
+            </div>
+        </div>
+        <div class="container-acao">
+ 
+                
+                <h1>Adicionar Professor</h1>
+                <div>
+                    <label for="cpfadd">RA</label><br>
+                    <input type="text" id="cpfadd" name="cpfadd" class="inputform"><br>
+                </div>
+                <div>
+                    <label for="nomeadd">Nome</label><br>
+                    <input type="text" id="nomeadd" name="nomeadd" class="inputform"><br>
+                </div>
+                <button class="profbutton" id="addbutton">OK</button>
+     
+
+     
+                <h1>Contrato</h1>
+                <div>
+                    <label for="cpfcon">CPF do Professor</label><br>
+                    <input type="text" id="cpfcon" name="cpfcon" class="inputform"><br>
+                </div>
+                <div>
+                    <label for="matcon">Matéria a lecionar</label><br>
+                    <input type="text" id="matcon" name="matcon" class="inputform"><br>
+                </div>
+                <button class="profbutton" id="conbutton">OK</button>
+
+
+
+                <h1>Turmas a lecionar</h1>
+                <div>
+                    <label for="cpftur">CPF do Professor</label><br>
+                    <input type="text" id="cpftur" name="ra" class="inputform"><br>
+                </div>
+                <div>
+                    <label for="turtur">Turmas</label><br>
+                    <input type="text" id="turtur" name="turtur" class="inputform"><br>
+                </div>
+                <button class="profbutton" id="turbutton">OK</button>
+       
+       
+
+       
+                <h1>
+                    Buscar Professor
+                </h1>
+                <div>
+                    <label for="cpfbusca">CPF</label><br>
+                    <input type="text" id="cpfbusca" name="cpfbusca" class="inputform"><br>
+                </div>
+                <button class="profbutton" id="buscabutton">OK</button>
+      
+
+
+
+
+
+     
+                <h1>Remover Professor</h1>
+                <div>
+                    <label for="cpfdelete">CPF</label><br>
+                    <input type="text" id="cpfdelete" name="cpfdelete" class="inputform"><br>
+                </div>
+                <button class="profbutton" id="deletebutton">OK</button>
+
+                <br>
+
+
+                <button class="tabprofbutton" id="tabprofbutton">Listar Professores</button>
+      
+
+        </div>
+    </div>
+
+    <script src="../jses/i.js"></script>
+    <script src="../jses/prof.js"></script>
+</body>
+
+</html>
